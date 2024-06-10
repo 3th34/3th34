@@ -16,7 +16,7 @@
 <div align="center">
     <!-- Replace with your skills -->
     <h3>Skills To Date:</h3>
-    <p>While it can be nearly impossible to have a perfect command on syntax and language use, learning through trial & error(s). I can attest to atleast a familiarity with these langauges & frameworks and a firm commitment to continue learning </p>
+    <p>While it can be nearly impossible to have a perfect command on syntax and language use, learning through trial & error(s). I can attest to atleast a familiarity with these langauges & frameworks and a firm commitment to continue learning... </p>
     <p>Backend familiarity: (In Order from Most to Least)</p>
     <img src=https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white alt="Mongo Db">
     <img src=https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white alt="Postgres">

@@ -13,7 +13,7 @@
 
 
 
-div align="center">
+<div align="center">
     <!-- Replace with your skills -->
     <h3>Skills</h3>
     <p>While it can be nearly impossible to have a perfect command on syntax and langauge use, learning through trial & error(s). I can attest to atleast a familiarity with these langauges & frameworks </p>

@@ -37,7 +37,7 @@
     <img src=https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white alt="AWS">
     <img src=https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white alt="Azure" />
 </div>
-
+<p><b>Total Commitment's to date:</b></p>
 <div align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=3th34&theme=github_dark" alt="3th34's GitHub Stats"/>
 </div>

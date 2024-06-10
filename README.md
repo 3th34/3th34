@@ -31,7 +31,7 @@
     <h3>Frameworks</h3>
     <img src=https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB alt="React">
     <img src=https://img.shields.io/badge/Express.js-404D59?style=for-the-badge alt="Express js">
-    <img src=https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white alt="Tailwind Css">
+    <img src=https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white alt="Tailwind Css">
     <img src=https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white alt="Ruby on Rails" />
     <h3>Cloud</h3>
     <img src=https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white alt="AWS">

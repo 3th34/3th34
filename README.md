@@ -15,20 +15,20 @@
 
 <div align="center">
     <!-- Replace with your skills -->
-    <h3>Skills</h3>
-    <p>While it can be nearly impossible to have a perfect command on syntax and langauge use, learning through trial & error(s). I can attest to atleast a familiarity with these langauges & frameworks </p>
+    <h3>Skills To Date:</h3>
+    <p>While it can be nearly impossible to have a perfect command on syntax and langauge use, learning through trial & error(s). I can attest to atleast a familiarity with these langauges & frameworks and a firm commitment to continue learning </p>
     <p>Backend familiarity: (In Order from Most to Least)</p>
     <img src=https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white alt="Mongo Db">
     <img src=https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white alt="Postgres">
     <img src=https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white alt="Ruby">
-    <h3>Langauges</h3>
+    <h3>Language's</h3>
     <img src=https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white alt="C#">
     <img src=https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white alt="Java">
     <img src=https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white alt="PHP">
     <img src=https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white alt="Go" />
     <img src=https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white alt="Ruby">
     <img src=https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white alt="Python">
-    <h3>Framworks</h3>
+    <h3>Frameworks</h3>
     <img src=https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB alt="React">
     <img src=https://img.shields.io/badge/Express.js-404D59?style=for-the-badge alt="Express js">
     <img src=https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white alt="Tailwind Css">

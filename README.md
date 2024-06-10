@@ -8,6 +8,11 @@
     <p>I'm a Software Engineer specializing in Backend Development. I enjoy Programming Chess.</p>
 </div>
 <div align="center">
+    <img src="https://raw.githubusercontent.com/3th34/3th34/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation"/>
+</div>
+
+
+<div align="center">
     <!-- Replace href with your links -->
     <a href="https://www.linkedin.com/in/jerome-q-6a99682a5/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>

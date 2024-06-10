@@ -8,7 +8,7 @@
     <p>I'm a Software Engineer specializing in Backend Development. I enjoy Programming Chess.</p>
 </div>
 <div align="center">
-    <img src="https://raw.githubusercontent.com/https://github.com/3th34/https://github.com/3th34/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation"/>
+    <img src="https://raw.githubusercontent.com/3th34/3th34/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation"/>
 </div>
 
 

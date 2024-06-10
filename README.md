@@ -3,8 +3,10 @@
         <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Hey..+I'm+3th34;This+is..;..my+Github+profile..;" alt="Typing SVG"/>
     </h1>
 </div>
-
-
+<div align="center">
+    <h2>🚀 About Me</h2>
+    <p>I'm a Software Engineer specializing in Backend Development. I enjoy Programming Chess.</p>
+</div>
 
 
 

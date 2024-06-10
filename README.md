@@ -39,6 +39,11 @@
 </div>
 
 <div align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=3th34&theme=github_dark" alt="3th34's GitHub Stats"/>
+</div>
+
+
+<div align="center">
     <!-- Replace href with your links -->
     <p>Let's Connect</p>
     <a href="https://www.linkedin.com/in/jerome-q-6a99682a5/">

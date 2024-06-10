@@ -6,9 +6,7 @@
 <div align="center">
     <h2>🚀 About Me</h2>
     <p>I'm a Software Engineer specializing in Backend Development. I enjoy Programming Chess.</p>
-</div>
-<div align="center">
-    <img src="https://raw.githubusercontent.com/3th34/3th34/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation"/>
+    <p>📫 :How to reach me feel to msg my repository i will message back</p>
 </div>
 
 
@@ -26,7 +24,7 @@
 - 👀 I’m currently a software engineering student
 - 🌱learning...
 - 💞️ 
-- 📫 How to reach me feel to msg my repository i will message back
+- How to reach me feel to msg my repository i will message back
 
 <!---
 3th34/3th34 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

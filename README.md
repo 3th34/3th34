@@ -5,7 +5,7 @@
 </div>
 <div align="center">
     <h2>🚀 About Me</h2>
-    <p>I'm a Software Engineer specializing in Backend Development. I enjoy Programming & playing Chess.</p>
+    <p>I'm a Software Engineer wth Fullstack(MERN) Dev experience,Currently working on specializing in Backend Development, & System Design. I enjoy Programming & playing Chess.</p>
     <p>📫 :How to reach me feel to msg my repository i will message back</p>
 </div>
 
